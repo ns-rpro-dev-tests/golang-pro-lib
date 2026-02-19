@@ -8,4 +8,5 @@ import (
 
 func Printer() {
 	fmt.Println("My test project!")
+	fmt.Println("My test passed!")
 }
